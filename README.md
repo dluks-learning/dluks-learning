@@ -12,9 +12,9 @@ Este perfil é um lugar onde busco explorar, criar e colaborar. Sinta-se à vont
 
 ---
 
-## Meu Repositório Oficial
+## Meu Github Oficial
 
-Para projetos pessoais e profissionais, você pode conferir meu repositório oficial em [dluks82](https://github.com/dluks82).
+Para projetos pessoais e profissionais, você pode conferir meu Github oficial em [dluks82](https://github.com/dluks82).
 
 ---
 
